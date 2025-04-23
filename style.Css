@@ -2,5 +2,22 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: browns;
-}
+    
+  }
+
+  nav {
+    background-color: whitesmoke;
+    position: relative;
+    top: 10%;
+    left: auto;
+    right: auto;
+    color: whitesmoke;
+    box-shadow: 10px -10px 4px black;
+    display: flex;
+  }
+
+ nav ol li {
+    list-style-type: none;
+    color: black;
+    display: flex;
+ }
